@@ -57,10 +57,10 @@
 ], 
     "tests":[   
         {
-            "id":22,
+            "id":33,
             "task":2,
-            "model":"xlm-roberta-large",
-            "languages":["en","de","fr","it"],
+            "model":"HooshvareLab/bert-base-parsbert-uncased",
+            "languages":["fa"],
             "augmentation":[""],
             "data_percentage":1,
             "use_token_type_ids":false,
